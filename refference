@@ -1,0 +1,20 @@
+<div class="fe-box">
+            <img src="img/f1.png" alt="">
+            <h6>Free Shipping</h6>
+        </div>
+
+
+
+        #feature{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+        }
+        #feature{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+        }
+                
